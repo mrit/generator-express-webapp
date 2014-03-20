@@ -9,9 +9,9 @@ A friend of mine asked me to share the architecture of the node app I'm currentl
 
 ## Tutorial
 
-`$(sudo) npm install -g yo
-$(sudo) npm install -g generator-express-webapp
-$yo express-webapp`
+	$(sudo) npm install -g yo
+	$(sudo) npm install -g generator-express-webapp
+	$yo express-webapp
 
 Please, be welcome to suggest, comment or contribute. :)
 
