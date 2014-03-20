@@ -1,0 +1,21 @@
+{
+	"production": {
+		"port": "5000",
+		"database": {
+			"hostname": "",
+			"user": "",
+			"password": "",
+			"name": "",
+			"port": ""
+		}
+	},
+	"development": {
+		"port": "3000",
+		"database": {
+			"hostname": "",
+			"user": "",
+			"password": "",
+			"name": ""
+		}
+	}
+}
