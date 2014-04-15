@@ -32,8 +32,8 @@ var ExpressWebappGenerator = yeoman.generators.Base.extend({
     this.mkdir('app');
     this.mkdir('app/auth');
     this.mkdir('app/controllers');
-    this.mkdir('app/contorllers/yourmodule');
-    this.mkdir('app/midddlewares');
+    this.mkdir('app/controllers/yourmodule');
+    this.mkdir('app/middlewares');
     this.mkdir('app/routes');
     this.mkdir('app/routes/yourmodule');
     this.mkdir('app/public');
